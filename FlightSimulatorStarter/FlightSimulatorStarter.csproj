@@ -5,6 +5,14 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <Version>2.0.0.1</Version>
+    <Authors>Mengqiu Liu</Authors>
+    <Company>Xiamen University International College</Company>
+    <ApplicationIcon>Prepar3D_00001.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Prepar3D_00001.ico" />
+  </ItemGroup>
 
 </Project>
