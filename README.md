@@ -1,1 +1,2 @@
 # FlightSimulatorStarter
+一个防止航班开始前漏开软件导致飞行体验下降的小工具
